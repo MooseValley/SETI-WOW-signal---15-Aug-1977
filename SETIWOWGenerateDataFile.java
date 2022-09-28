@@ -1,3 +1,10 @@
+/*
+Author: Moose O'Malley
+Source: SETIWOWGenerateDataFile.java
+Desc:   SETI WOW Data file generator
+
+*/
+
 import java.util.Formatter;
 import java.security.SecureRandom;
 
