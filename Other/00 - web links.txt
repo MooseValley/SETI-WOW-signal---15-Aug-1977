@@ -1,0 +1,111 @@
+https://en.wikipedia.org/wiki/Wow!_signal
+
+The Wow! signal was a strong narrowband radio signal received on August 15, 1977, by Ohio State University's Big Ear radio telescope in the United States, then used to support the search for extraterrestrial intelligence. The signal appeared to come from the direction of the constellation Sagittarius and bore the expected hallmarks of extraterrestrial origin.
+
+Astronomer Jerry R. Ehman discovered the anomaly a few days later while reviewing the recorded data. He was so impressed by the result that he circled the reading on the computer printout, "6EQUJ5", and wrote the comment "Wow!" on its side, leading to the event's widely used name.[2]
+
+The entire signal sequence lasted for the full 72-second window during which Big Ear was able to observe it, but has not been detected since, despite several subsequent attempts by Ehman and others. Many hypotheses have been advanced on the origin of the emission, including natural and human-made sources, but none of them adequately explains the signal.[3]
+
+Although the Wow! signal had no detectable modulation—a technique used to transmit information over radio waves—it remains the strongest candidate for an alien radio transmission ever detected.[3]
+
+https://www.seti.net/indepth/wow/wow.php
+
+https://www.seti.net/database/ra-19/sagittarius/wow/target.php
+
+
+https://biffhard.net/track/14069048201591463826-seti_wow_signal/
+Download SETI – WOW signal
+SETI WOW signal
+Duration: 3:14
+File type: mp3
+WOW Signal recieved at SETI on Aug 15 1977
+
+
+GitHub - setiQuest/seti_signal_sim: SETI Signal Simulation
+https://github.com/setiQuest/seti_signal_sim
+
+
+****************************************************************
+
+https://www.seti.org/was-it-et-line-or-just-comet
+
+Was it ET on the line? Or just a comet?
+Jun 13, 2017
+Tags: SETI , WOW Signal
+
+Has the elusive WOW! signal been explained?  Senior Astronomer Seth Shostak takes a look at the newest theory.
+Wow Signal
+By Seth Shostak, Senior Astronomer
+
+There’s no such thing as a “close call” in SETI – either the radio telescope has picked up an alien signal, or it hasn’t.  “Close” doesn’t exist in this one-bit experiment, any more than it does in pregnancy.
+
+But there have been some interesting cases and one of these definitely enjoys A-List status: the so-called WOW signal.  At close to midnight on August 15, 1977, the massive radio telescope of the Ohio State University, known to its friends as the Big Ear, recorded a signal so impressive to the astronomer examining the instrument’s logs, he wrote “Wow!” on the computer printout.
+
+It had all the characteristics one would anticipate from a signal produced by a deep space transmitter.  This agreement with hopeful expectation, coupled with the undoubted appeal of the signal’s beguiling moniker, led to many efforts to find the WOW signal a second time.  These attempts were made on such radio telescopes as the Very Large Array in New Mexico and, of course, the Big Ear itself.  However, the result was always the same: radio silence.
+
+So the WOW signal seemed destined to be an enduring mystery of the universe – maybe it really was ET launching a signal in our direction, a whistle that was either very short or very intermittent.  Then again, perhaps it was something else – such as terrestrial interference.
+
+But a paper published more than a year ago by Antonio Paris and Evan Davies makes a different claim: a natural solution to the puzzle of the WOW signal.  It wasn’t earthly interference, problems with the equipment, or even ET; it was natural radio emission from hydrogen gas streaming off a nearby comet.  Neutral hydrogen is well known for generating radio static at a frequency of 1420 MHz, which is indeed the spot on the dial where the Big Ear overheard the signal.  And there were, according to Paris and Davies, two comets close to the direction in which the Ohio State antenna was pointed.
+
+Well, you might consider that a disappointing development: one of the most famous clues that someone in space is trying to get in touch turns out to be nothing more than the entirely insensate activity of a solar-system ice ball.  Unsatisfying, yes, but at least that puzzle isn’t a puzzle anymore.
+
+Except that it is.
+
+The comet hypothesis, in my opinion, doesn’t work.  To begin with, there’s the slightly dismaying fact that I’ve never heard of anyone measuring strong hydrogen signals from a comet, and I’ve spent a lot of time on radio telescopes tuned to 1420 MHz.  But more than that, there’s the inconvenient truth that the Big Ear was fitted with two feeds – two receivers, if you prefer.  They both swept over the exact same patch of sky 70 seconds apart.  An automatic second look.
+
+But the WOW signal only appeared in one of the feeds.  Of course, that could be explained if the signal simply went off the air in the time between observation by the first and second feed.  Terrestrial interference could be compatible with this requirement, easy peasy.  And a signal from impatient aliens could too.
+
+But comets on the other side of the Solar System, as these were, don’t move fast enough to appear in the Big Ear’s beam and then disappear scarcely a minute later.  That’s not logical, Captain.
+
+Additionally, there are the comments of Robert Dixon, the radio astronomer who was director of the Ohio State Radio Observatory when the WOW signal was found.  He too makes the point that intense hydrogen signals from comets are basically unknown.  But an even stronger argument from Dixon is that the comets were nowhere near the telescope’s sight lines when the signal was found.  And that’s a show stopper.
+
+Recently, Chicagoan Bob Gray, who has spearheaded much of the follow-up attempts to recover the WOW signal, has joined with the SETI Institute to make further observational efforts using the Allen Telescope Array.  You never know; maybe the bit will flip, and an extraterrestrial broadcast will come blasting in.
+
+So yes, it’s possible (but unproven) that the WOW signal was the result of aliens sending a short ping.  If so, we may someday pick up their transmissions again.  But it wasn’t a comet … which should be the end of that tale.
+
+
+****************************************************************
+
+https://x-files.fandom.com/wiki/Wow!_signal
+
+Wow! signal
+
+The Wow! signal was a transmission detected by the SETI Professor Jerry Ehman in August 1977 while working on a radio telescope in Ohio state. Professor Ehman was so excited, he wrote "wow" in the margins of the print-out on which he detected the transmission.
+
+The signal itself was thirty times stronger than galactic background noise. It was transmitted and received on the twenty-one centimeter frequency, which no satellite transmitters were allowed to use.
+
+The signal was intermittent, like morse code, and seemed to turn itself on while in the radio telescope's beam. Until 1994, the Wow! signal was considered the best evidence of extraterrestrial intelligence. (TXF: "Little Green Men")
+
+****************************************************************
+
+https://www.reddit.com/r/SETI/comments/3olgii/wow_signal_audio/
+
+https://www.youtube.com/watch?v=OkycNvrpjCs&feature=youtu.be
+The Alien Wow Signal, 72 sec, at 1420.4556 MHz, New View! Aug 1977, UFO Sighting News.
+1,451,602 views
+•Aug 29, 2013
+
+>>There isn't an audio recording of the Wow! Signal or any other SETI observations made by Big Ear.
+
+>>I think the most popular fake was something like slowed down police radio recording or something :D
+
+>>I think it's just creative licence and misinterpretation.
+
+
+****************************************************************
+
+https://pt.osdn.net/projects/sfnet_thewowsignalproject/downloads/konsole-data/konsole.txt/
+
+The Wow! signal was a strong narrowband radio signal detected by Jerry R. Ehman on August 15, 1977, while he was working on a SETI project at the Big Ear radio telescope of The Ohio State University. NAPO or North American Astrophysical Observatory is now the successor to the Big Ear Observatory continuing the search for extraterrestrial intelligence. The Wow Signal Project aims to transport the numeric signal code to binary and export results to aalib. The wow signal originated in the constellation Saggitarius and embarked on it's mission approximately 2,600 years ago.
+
+http://www.discoveryinspired.com/wp-content/uploads/2012/06/WowL.jpg
+
+the wow signal is a music file of a pulsar!!!
+
+http://sourceforge.net/projects/thewowsignalproject/files/%28aa3d%20-r%20-w%2050%20-d%20-f%29binary-pulsar-wow-signal.wav/download
+
+thank you Vladmire Putin... B.p. oil cap
+
+http://sourceforge.net/projects/thewowsignalproject/files/bell(wowsignal)world-peace.mp3/download
+
+.
