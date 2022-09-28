@@ -25,7 +25,7 @@ I hoped this SETI WOW data set would be interesting / fun / engaging for my stud
 ## My YouTube video on re-creating the data:
 
 * SETI WOW Signal - Recreating a SETI WOW Data File, 13-Jun-2020, 
-https://www.youtube.com/watch?v=U9_L0raAQlY
+<br>https://www.youtube.com/watch?v=U9_L0raAQlY
 
 
 ## What is the SETI WOW signal ?
@@ -43,12 +43,18 @@ Source: https://en.wikipedia.org/wiki/Wow!_signal
 
 
 # Useful links:
-* The SETI Institute: https://seti.org/
-* SETI WOW (15-Aug-1977): https://www.seti.net/indepth/wow/wow.php
-* The Big Ear Wow! Signal - What We Know and Don't Know About It After 20 Years (September 1, 1997): http://www.bigear.org/wow20th.htm#pri...
-* Big Ear - Ohio State University Radio Observatory - Kraus-type radio telescope: https://en.wikipedia.org/wiki/Big_Ear
-* SETI WOW signal: https://en.wikipedia.org/wiki/Wow!_signal
-* SETI@home: https://setiathome.berkeley.edu
+* The SETI Institute: 
+<br>https://seti.org/
+* SETI WOW (15-Aug-1977): 
+<br>https://www.seti.net/indepth/wow/wow.php
+* The Big Ear Wow! Signal - What We Know and Don't Know About It After 20 Years (September 1, 1997): 
+<br>http://www.bigear.org/wow20th.htm#pri...
+* Big Ear - Ohio State University Radio Observatory - Kraus-type radio telescope: 
+<br>https://en.wikipedia.org/wiki/Big_Ear
+* SETI WOW signal: 
+<br>https://en.wikipedia.org/wiki/Wow!_signal
+* SETI@home: 
+<br>https://setiathome.berkeley.edu
 
 My web page:
 * Moose's Software Valley - Established July, 1996.
