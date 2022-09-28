@@ -55,6 +55,8 @@ Source: https://en.wikipedia.org/wiki/Wow!_signal
 <br>https://en.wikipedia.org/wiki/Wow!_signal
 * SETI@home: 
 <br>https://setiathome.berkeley.edu
+* SETI WOW Signal - Recreating a SETI WOW Data File, 13-Jun-2020, 
+<br>https://www.youtube.com/watch?v=U9_L0raAQlY
 
 My web page:
 * Moose's Software Valley - Established July, 1996.
