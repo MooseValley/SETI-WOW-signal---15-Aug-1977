@@ -58,4 +58,4 @@ Source: https://en.wikipedia.org/wiki/Wow!_signal
 
 My web page:
 * Moose's Software Valley - Established July, 1996.
-https://rebrand.ly/MoosesSoftware
+<br>https://moosevalley.github.io/
